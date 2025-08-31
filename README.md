@@ -1,30 +1,69 @@
-# petchoimuthum15# 
+# 📊 Data Analyst Portfolio – Petchimuthum
 
-🚀 **Aspiring Data Analyst** passionate about turning raw data into actionable insights.  
-💻 Skilled in **Python, SQL, Excel, and Power BI**  
-📊 Interested in **Data Visualization, Business Analytics & Predictive Insights**  
-
----
-
-## 🔧 Skills & Tools
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Tools:** Excel, Power BI, Jupyter Notebook  
-- **Concepts:** Data Cleaning, EDA, Visualization, Dashboard Building  
+## 👋 About Me  
+Detail-oriented graduate with strong skills in **Python, SQL, Excel, and Power BI**.  
+Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I managed sales & stock reports, resolved discrepancies, and built **insightful dashboards** for decision-making.  
+Passionate about **data cleaning, visualization, and business intelligence reporting** to drive business growth.  
 
 ---
 
-## 📂 Featured Projects
-🔹 [Performance Tracker! – Power BI] [Performance Tracker](https://github.com/user-attachments/assets/6dea755d-1a11-4e23-a5e8-988cb7ba054a)
-            
-Interactive dashboard analyzing sales performance, revenue trends & top products.  
-
-🔹 [Retail Data Analysis – Python + SQL](#)  
-Data cleaning, EDA, and SQL queries to extract key business insights.  
-
-🔹 [Excel Automation Project](#)  
-Used Excel formulas, pivot tables, and macros to automate reporting.  
+## 🎓 Certifications  
+- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  
+- 📜 Advanced MS Excel – Simplilearn (2025)  
+- 📜 Power BI: Data Visualization – Great Learning (2024)  
+- 📜 Python Course for Beginners – Scalers Topics (2025)  
 
 ---
 
-## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/petchimuthu-m-4a4b1036a) | [Email](petchimuthum002@gmail.com)
+## 📂 Featured Projects  
+
+### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#)  
+- Built an interactive dashboard to track **sales by region, city, product line, and customer type**.  
+- Created **DAX measures** for Total Sales, Profit, Orders, and Tax.  
+- Used **slicers, filters, and visuals** for dynamic insights.  
+
+### 🔹 [Retail Data Analysis – Python + SQL](#)  
+- Performed **data cleaning & EDA** using Pandas & SQL queries.  
+- Identified top products, customer trends, and revenue insights.  
+
+### 🔹 [Excel Automation Project](#)  
+- Created **Excel dashboards** with Pivot Tables & Macros.  
+- Automated monthly sales reporting process.  
+
+---
+
+## 🛠 Skills  
+
+**Technical Skills:**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Queries, Joins, Aggregations, Data Cleaning)  
+- Power BI (Dashboards, DAX, Data Modeling)  
+- MS Excel (Advanced Formulas, Pivot Tables, Macros)  
+
+**Soft Skills:**  
+- Analytical Thinking  
+- Problem Solving  
+- Communication  
+- Attention to Detail  
+- Adaptability  
+
+---
+
+## 💼 Internship  
+
+**Data Analyst Intern (Virtual)** – *Novi Tech Research & Development*  
+📍 Coimbatore | 05/2025 – 08/2025  
+
+- Collected, cleaned & transformed datasets using Python and SQL.  
+- Built **Power BI dashboards with DAX measures** for KPI tracking.  
+- Assisted in BI reports and trend analysis for decision-making.  
+
+---
+
+## 📫 Connect with Me  
+🌐 [GitHub](https://github.com/petchimuthum15)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
+📧 petchimuthum15@example.com  
+
+---
+
