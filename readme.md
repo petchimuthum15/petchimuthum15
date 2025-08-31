@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Petchimuthum
+# 📊 Data Analyst Portfolio – Petchimuthu M
 
 ## 👋 About Me  
 Detail-oriented graduate with strong skills in **Python, SQL, Excel, and Power BI**.  
