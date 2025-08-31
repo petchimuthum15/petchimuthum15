@@ -64,7 +64,7 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 ## 📫 Connect with Me  
 💻 [GitHub](https://github.com/petchimuthum15)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/petchimuthu-m-4a4b1036a)
-📧 Email: [petchimuthum002@gmail.com](mailto:petchimuthum002@gmail.com)
+📧 [Email](petchimuthum002@gmail.com)
 
 ---
 
