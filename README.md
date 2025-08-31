@@ -9,7 +9,8 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 
 ## 🎓 Certifications  
 - 📜 Data Analyst Intern Certificate – Novi Tech (2025)  
-- 📜 Advanced MS Excel – Simplilearn (2025)  
+- 📜 Advanced MS Excel – Simplilearn (2025)  <img width="622" height="430" alt="Capture 123" src="https://github.com/user-attachments/assets/b212d54a-5226-49b3-8c1b-97753df01755" />
+
 - 📜 Power BI: Data Visualization – Great Learning (2024)  
 - 📜 Python Course for Beginners – Scalers Topics (2025)  
 
@@ -17,7 +18,8 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 
 ## 📂 Featured Projects  
 
-### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#)  
+### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#)  ![Performance Tracker](https://github.com/user-attachments/assets/b78a30ab-bb90-40a2-877c-e03f645fc372)
+
 - Built an interactive dashboard to track **sales by region, city, product line, and customer type**.  
 - Created **DAX measures** for Total Sales, Profit, Orders, and Tax.  
 - Used **slicers, filters, and visuals** for dynamic insights.  
@@ -62,8 +64,8 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 
 ## 📫 Connect with Me  
 🌐 [GitHub](https://github.com/petchimuthum15)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
-📧 petchimuthum15@example.com  
+🔗 [Linkedin](www.linkedin.com/in/petchimuthu-m-4a4b1036a)
+📧 petchimuthum002@gmail.com
 
 ---
 
