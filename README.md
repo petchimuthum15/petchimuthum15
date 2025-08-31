@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Performance Tracker! – Power BI](#)[Performance Tracker](https://github.com/user-attachments/assets/6dea755d-1a11-4e23-a5e8-988cb7ba054a)
+🔹 [Performance Tracker! – Power BI] [Performance Tracker](https://github.com/user-attachments/assets/6dea755d-1a11-4e23-a5e8-988cb7ba054a)
             
 Interactive dashboard analyzing sales performance, revenue trends & top products.  
 
