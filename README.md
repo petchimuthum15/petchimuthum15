@@ -9,8 +9,7 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 
 ## 🎓 Certifications  
 - 📜 Data Analyst Intern Certificate – Novi Tech (2025)  
-- 📜 Advanced MS Excel – Simplilearn (2025)  <img width="622" height="430" alt="Capture 123" src="https://github.com/user-attachments/assets/b212d54a-5226-49b3-8c1b-97753df01755" />
-
+- 📜 Advanced MS Excel – Simplilearn (2025) 
 - 📜 Power BI: Data Visualization – Great Learning (2024)  
 - 📜 Python Course for Beginners – Scalers Topics (2025)  
 
