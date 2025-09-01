@@ -85,8 +85,8 @@ Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I ma
 
 ## 📫 Connect with Me  
 💻 [GitHub](https://github.com/petchimuthum15)  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/petchimuthu-m-4a4b1036a)
-📧  [Gmail Link](https://mail.google.com/mail/?view=cm&fs=1&to=petchimuthum002@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/petchimuthu-m-4a4b1036a)
+📧 [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=petchimuthum002@gmail.com)
 
 
 
