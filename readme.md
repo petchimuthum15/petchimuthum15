@@ -1,9 +1,22 @@
-# 📊 Data Analyst Portfolio – Petchimuthu M
+👨‍💻 Petchimuthu M – Data Analyst Portfolio
+Welcome to my GitHub portfolio! 🚀
+This repository highlights my Data Analysis projects, dashboards, and scripts built using Python, SQL, Excel, and Power BI.
+
 
 ## 👋 About Me  
-Detail-oriented graduate with strong skills in **Python, SQL, Excel, and Power BI**.  
+🔹 About Me
+
+🎓 Aspiring Data Analyst with hands-on projects
+
+🐍 Skilled in Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+📊 Experienced in Power BI dashboards & Excel analytics
+
+🗄️ SQL for data cleaning, queries, and insights
+
+📌 Passionate about turning raw data into meaningful business insights
 Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I managed sales & stock reports, resolved discrepancies, and built **insightful dashboards** for decision-making.  
-Passionate about **data cleaning, visualization, and business intelligence reporting** to drive business growth.  
+.  
 
 ---
 
