@@ -22,7 +22,8 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 
 ## 📂 Featured Projects  
 
-### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#)  [Performance Tracker.pdf](https://github.com/user-attachments/files/22072203/Performance.Tracker.pdf)
+### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#) ![Performance Tracker](https://github.com/user-attachments/assets/e9241369-c381-44f3-baf5-06994497ec43)
+
 
 
 - Built an interactive dashboard to track **sales by region, city, product line, and customer type**.  
