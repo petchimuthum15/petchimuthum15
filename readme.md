@@ -22,14 +22,16 @@ Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I ma
 ---
 
 ## 🎓 Certifications  
-- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  [NOVI TECH.pdf](https://github.com/user-attachments/files/22072146/NOVI.TECH.pdf)
+- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  [Novi Tech.pdf](https://github.com/user-attachments/files/22079168/Novi.Tech.pdf)
+
 
 
 - 📜 Introduction of MS Excel – Simplilearn (2025) [MS Excel.pdf](https://github.com/user-attachments/files/22072076/MS.Excel.pdf)
 
-- 📜 Power BI: Data Visualization – Great Learning (2025)  [PETCHIMUTHU M (1).pdf](https://github.com/user-attachments/files/22072017/PETCHIMUTHU.M.1.pdf)
+- 📜 Power BI: Data Visualization – Great Learning (2025) [Power BI.pdf](https://github.com/user-attachments/files/22079172/Power.BI.pdf)
 
-- 📜 Python Course for Beginners – Scalers Topics (2025)  [PYTHON CERTIFICATE.pdf](https://github.com/user-attachments/files/22072166/PYTHON.CERTIFICATE.pdf)
+
+- 📜 Python Course for Beginners – Scalers Topics (2025) [Python.pdf](https://github.com/user-attachments/files/22079197/Python.pdf)
 
 
 ---
@@ -74,7 +76,8 @@ Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I ma
 ## 💼 Internship  
 
 **Data Analyst Intern (Virtual)** – *Novi Tech Research & Development*  
-📍 Coimbatore | 05/2025 – 08/2025  [NOVI TECH.pdf](https://github.com/user-attachments/files/22072207/NOVI.TECH.pdf)
+📍 Coimbatore | 05/2025 – 08/2025  [Novi Tech.pdf](https://github.com/user-attachments/files/22079202/Novi.Tech.pdf)
+
 
 
 - Collected, cleaned & transformed datasets using Python and SQL.  
