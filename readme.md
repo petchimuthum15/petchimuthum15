@@ -15,6 +15,7 @@ This repository highlights my Data Analysis projects, dashboards, and scripts bu
 🗄️ SQL for data cleaning, queries, and insights
 
 📌 Passionate about turning raw data into meaningful business insights
+
 Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I managed sales & stock reports, resolved discrepancies, and built **insightful dashboards** for decision-making.  
 .  
 
