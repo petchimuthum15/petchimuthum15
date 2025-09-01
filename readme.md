@@ -8,11 +8,14 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 ---
 
 ## 🎓 Certifications  
-- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  
-- 📜 Advanced MS Excel – Simplilearn (2025) 
+- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  ![NOVI TECH](https://github.com/user-attachments/assets/d5804ef0-b75d-4529-a974-6159a504705e)
+
+- 📜 Introduction of MS Excel – Simplilearn (2025) [MS Excel.pdf](https://github.com/user-attachments/files/22072076/MS.Excel.pdf)
+
 - 📜 Power BI: Data Visualization – Great Learning (2025)  [PETCHIMUTHU M (1).pdf](https://github.com/user-attachments/files/22072017/PETCHIMUTHU.M.1.pdf)
 
-- 📜 Python Course for Beginners – Scalers Topics (2025)  
+- 📜 Python Course for Beginners – Scalers Topics (2025)  <img width="1727" height="1276" alt="Python Certificate" src="https://github.com/user-attachments/assets/30c8ea1b-a4a0-4280-824d-5ae2b44f1f0e" />
+
 
 ---
 
