@@ -10,7 +10,8 @@ Passionate about **data cleaning, visualization, and business intelligence repor
 ## 🎓 Certifications  
 - 📜 Data Analyst Intern Certificate – Novi Tech (2025)  
 - 📜 Advanced MS Excel – Simplilearn (2025) 
-- 📜 Power BI: Data Visualization – Great Learning (2024)  
+- 📜 Power BI: Data Visualization – Great Learning (2025)  [PETCHIMUTHU M (1).pdf](https://github.com/user-attachments/files/22072017/PETCHIMUTHU.M.1.pdf)
+
 - 📜 Python Course for Beginners – Scalers Topics (2025)  
 
 ---
