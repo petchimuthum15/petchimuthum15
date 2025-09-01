@@ -4,7 +4,7 @@
 Welcome to my GitHub portfolio! 🚀
 This repository highlights my Data Analysis projects, dashboards, and scripts built using Python, SQL, Excel, and Power BI.
 
-#**🔹 About Me**
+**🔹 About Me**
 
 🎓 Aspiring Data Analyst with hands-on projects
 
