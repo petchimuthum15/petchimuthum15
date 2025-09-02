@@ -1,95 +1,155 @@
-# **👨‍💻 Petchimuthu M – Data Analyst Portfolio**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kani | Data Analyst Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <!-- FontAwesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Kani</a>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+          <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="assets/resume.pdf" target="_blank">Resume</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
+  <!-- Hero Section -->
+  <header class="hero d-flex align-items-center text-center text-white">
+    <div class="container">
+      <img src="assets/profile.jpg" class="rounded-circle mb-3 shadow" width="150" alt="Profile">
+      <h1>Hello, I'm <span class="text-warning">Kani</span></h1>
+      <p class="lead">Aspiring Data Analyst | Python | SQL | Power BI | Excel</p>
+      <!-- Resume Download Button -->
+      <a href="assets/resume.pdf" class="btn btn-warning btn-lg mt-3 shadow" target="_blank">📄 Download Resume</a>
+    </div>
+  </header>
 
-Welcome to my GitHub portfolio! 🚀
-This repository highlights my Data Analysis projects, dashboards, and scripts built using Python, SQL, Excel, and Power BI.
+  <!-- About Section -->
+  <section id="about" class="py-5">
+    <div class="container">
+      <h2 class="mb-4">About Me</h2>
+      <p>
+        I am an aspiring <b>Data Analyst</b> with strong skills in 
+        <b>Python, SQL, Excel, and Power BI</b>.  
+        I love analyzing datasets, building dashboards, and generating insights that help businesses make data-driven decisions.  
+        My portfolio showcases real-world projects where I applied statistical techniques, visualization, and problem-solving skills.
+      </p>
+    </div>
+  </section>
 
-**🔹 About Me**
+  <!-- Skills Section -->
+  <section id="skills" class="bg-light py-5">
+    <div class="container text-center">
+      <h2 class="mb-4">Skills</h2>
+      <div class="row">
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fab fa-python fa-3x text-primary"></i>
+          <p class="mt-2">Python</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-database fa-3x text-success"></i>
+          <p class="mt-2">SQL</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-file-excel fa-3x text-success"></i>
+          <p class="mt-2">Excel</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-chart-line fa-3x text-warning"></i>
+          <p class="mt-2">Power BI</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-chart-bar fa-3x text-info"></i>
+          <p class="mt-2">Data Visualization</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-code fa-3x text-danger"></i>
+          <p class="mt-2">HTML / CSS</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-robot fa-3x text-secondary"></i>
+          <p class="mt-2">Machine Learning (Basics)</p>
+        </div>
+        <div class="col-md-3 col-6 mb-4">
+          <i class="fas fa-user-tie fa-3x text-dark"></i>
+          <p class="mt-2">Communication</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-🎓 Aspiring Data Analyst with hands-on projects
+  <!-- Projects Section -->
+  <section id="projects" class="py-5">
+    <div class="container">
+      <h2 class="mb-4">Projects</h2>
+      <div class="row">
+        <!-- Project 1 -->
+        <div class="col-md-4 mb-3">
+          <div class="card h-100 shadow">
+            <div class="card-body">
+              <h5 class="card-title">Sales Dashboard (Power BI)</h5>
+              <p class="card-text">Interactive dashboard showing revenue, profit trends, and top products.</p>
+              <a href="https://github.com/username/sales-dashboard" class="btn btn-dark btn-sm" target="_blank">View Project</a>
+            </div>
+          </div>
+        </div>
+        <!-- Project 2 -->
+        <div class="col-md-4 mb-3">
+          <div class="card h-100 shadow">
+            <div class="card-body">
+              <h5 class="card-title">SQL Insights</h5>
+              <p class="card-text">Analyzed customer orders and product sales using advanced SQL queries.</p>
+              <a href="https://github.com/username/sql-analysis" class="btn btn-dark btn-sm" target="_blank">View Project</a>
+            </div>
+          </div>
+        </div>
+        <!-- Project 3 -->
+        <div class="col-md-4 mb-3">
+          <div class="card h-100 shadow">
+            <div class="card-body">
+              <h5 class="card-title">Web Scraping (Python)</h5>
+              <p class="card-text">Scraped and analyzed e-commerce product data using Python & BeautifulSoup.</p>
+              <a href="https://github.com/username/web-scraping" class="btn btn-dark btn-sm" target="_blank">View Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-🐍 Skilled in Python (Pandas, NumPy, Matplotlib, Seaborn)
+  <!-- Contact Section -->
+  <section id="contact" class="bg-light py-5">
+    <div class="container text-center">
+      <h2 class="mb-4">Contact Me</h2>
+      <p>Email: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+      <p>
+        <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | 
+        <a href="https://github.com/username" target="_blank">GitHub</a>
+      </p>
+    </div>
+  </section>
 
-📊 Experienced in Power BI dashboards & Excel analytics
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3">
+    <p>&copy; 2025 Kani | Data Analyst Portfolio</p>
+  </footer>
 
-🗄️ SQL for data cleaning, queries, and insights
-
-📌 Passionate about turning raw data into meaningful business insights
-
-Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I managed sales & stock reports, resolved discrepancies, and built **insightful dashboards** for decision-making.  
-.  
-
----
-
-## 🎓 Certifications  
-- 📜 Data Analyst Intern Certificate – Novi Tech (2025)  [Novi Tech.pdf](https://github.com/user-attachments/files/22079168/Novi.Tech.pdf)
-
-
-
-- 📜 Introduction of MS Excel – Simplilearn (2025) [MS Excel.pdf](https://github.com/user-attachments/files/22072076/MS.Excel.pdf)
-
-- 📜 Power BI: Data Visualization – Great Learning (2025) [Power BI.pdf](https://github.com/user-attachments/files/22079172/Power.BI.pdf)
-
-
-- 📜 Python Course for Beginners – Scalers Topics (2025) [Python.pdf](https://github.com/user-attachments/files/22079197/Python.pdf)
-
-
----
-
-## 📂 Featured Projects  
-
-### 🔹 [Sales & Performance Tracker Dashboard – Power BI](#) ![Performance Tracker](https://github.com/user-attachments/assets/e9241369-c381-44f3-baf5-06994497ec43)
-
-
-
-- Built an interactive dashboard to track **sales by region, city, product line, and customer type**.  
-- Created **DAX measures** for Total Sales, Profit, Orders, and Tax.  
-- Used **slicers, filters, and visuals** for dynamic insights.  
-
-### 🔹 [Retail Data Analysis – Python + SQL](#)  
-- Performed **data cleaning & EDA** using Pandas & SQL queries.  
-- Identified top products, customer trends, and revenue insights.  
-
-### 🔹 [Excel Automation Project](#)  
-- Created **Excel dashboards** with Pivot Tables & Macros.  
-- Automated monthly sales reporting process.  
-
----
-
-## 🛠 Skills  
-
-**Technical Skills:**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (Queries, Joins, Aggregations, Data Cleaning)  
-- Power BI (Dashboards, DAX, Data Modeling)  
-- MS Excel (Advanced Formulas, Pivot Tables, Macros)  
-
-**Soft Skills:**  
-- Analytical Thinking  
-- Problem Solving  
-- Communication  
-- Attention to Detail  
-- Adaptability  
-
----
-
-## 💼 Internship  
-
-**Data Analyst Intern (Virtual)** – *Novi Tech Research & Development*  
-📍 Coimbatore | 05/2025 – 08/2025  [Novi Tech.pdf](https://github.com/user-attachments/files/22079202/Novi.Tech.pdf)
-
-
-
-- Collected, cleaned & transformed datasets using Python and SQL.  
-- Built **Power BI dashboards with DAX measures** for KPI tracking.  
-- Assisted in BI reports and trend analysis for decision-making.  
-
----
-
-## 📫 Connect with Me  
-💻 [GitHub](https://github.com/petchimuthum15)  
-🌐 [LinkedIn](https://www.linkedin.com/in/petchimuthu-m-4a4b1036a)
-📧 [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=petchimuthum002@gmail.com)
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 
 
 
