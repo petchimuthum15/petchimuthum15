@@ -27,13 +27,15 @@ Experienced as a **Data Reporting & Analysis Associate at Reliance**, where I ma
 
 
 
-- 📜 Introduction of MS Excel – Simplilearn (2025) [MS Excel.pdf](https://github.com/user-attachments/files/22072076/MS.Excel.pdf)
+- 📜 MS Excel Basic to Advanced – MindLuster (2025) [Mindluster_Certificate.pdf](https://github.com/user-attachments/files/22211339/Mindluster_Certificate.pdf)
+
 
 - 📜 Power BI: Data Visualization – Great Learning (2025) [Power BI.pdf](https://github.com/user-attachments/files/22079172/Power.BI.pdf)
 
 
 - 📜 Python Course for Beginners – Scalers Topics (2025) [Python.pdf](https://github.com/user-attachments/files/22079197/Python.pdf)
 
+- 📜 Python For Data Analysis For Beginners - Mind Luster (2025) [Mindluster_Certificate (1).pdf](https://github.com/user-attachments/files/22211369/Mindluster_Certificate.1.pdf)
 
 ---
 
